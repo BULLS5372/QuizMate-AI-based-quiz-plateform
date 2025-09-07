@@ -2,7 +2,8 @@
 
 # **AI Quiz Generator & Management System**
 
-🔗 **[Live Demo](https://your-demo-link.com)**  
+**[![Watch the video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtu.be/Z3T364w9NQw?si=nLD3QeQiQCHWYCf5)**
+
 
 An **AI-powered quiz generator and management platform** where users can create quizzes, students can attempt them, and quiz creators can view all responses with rankings.  
 Built with **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
@@ -74,4 +75,5 @@ Built with **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 - Mongoose  
 
 ---
+
 
